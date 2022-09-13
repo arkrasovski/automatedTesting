@@ -1,0 +1,1 @@
+![my learning Software Development Methodologies]("https://sun9-west.userapi.com/sun9-7/s/v1/ig2/zyzthTpTUPbBfnEAKqM0wuo0BkrH-FsHpXDwDtJYXmwPZ15Kd6z-UJkHatfBGR4HO1jNR7HxPKr2on5Db4jrM3vS.jpg?size=2560x1333&quality=96&type=album")
