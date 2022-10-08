@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "stringApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"a f e c c j k\""
+    }
+  }
+}

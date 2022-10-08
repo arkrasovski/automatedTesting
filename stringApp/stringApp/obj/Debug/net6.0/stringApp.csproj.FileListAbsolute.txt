@@ -1,0 +1,15 @@
+E:\Studies\automatedTesting\stringApp\stringApp\bin\Debug\net6.0\stringApp.exe
+E:\Studies\automatedTesting\stringApp\stringApp\bin\Debug\net6.0\stringApp.deps.json
+E:\Studies\automatedTesting\stringApp\stringApp\bin\Debug\net6.0\stringApp.runtimeconfig.json
+E:\Studies\automatedTesting\stringApp\stringApp\bin\Debug\net6.0\stringApp.dll
+E:\Studies\automatedTesting\stringApp\stringApp\bin\Debug\net6.0\stringApp.pdb
+E:\Studies\automatedTesting\stringApp\stringApp\obj\Debug\net6.0\stringApp.csproj.AssemblyReference.cache
+E:\Studies\automatedTesting\stringApp\stringApp\obj\Debug\net6.0\stringApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\automatedTesting\stringApp\stringApp\obj\Debug\net6.0\stringApp.AssemblyInfoInputs.cache
+E:\Studies\automatedTesting\stringApp\stringApp\obj\Debug\net6.0\stringApp.AssemblyInfo.cs
+E:\Studies\automatedTesting\stringApp\stringApp\obj\Debug\net6.0\stringApp.csproj.CoreCompileInputs.cache
+E:\Studies\automatedTesting\stringApp\stringApp\obj\Debug\net6.0\stringApp.dll
+E:\Studies\automatedTesting\stringApp\stringApp\obj\Debug\net6.0\refint\stringApp.dll
+E:\Studies\automatedTesting\stringApp\stringApp\obj\Debug\net6.0\stringApp.pdb
+E:\Studies\automatedTesting\stringApp\stringApp\obj\Debug\net6.0\stringApp.genruntimeconfig.cache
+E:\Studies\automatedTesting\stringApp\stringApp\obj\Debug\net6.0\ref\stringApp.dll
